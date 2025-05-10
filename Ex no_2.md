@@ -26,7 +26,8 @@ return 0;
 }
 ```
 Output:
-![image](https://github.com/user-attachments/assets/ae610526-6871-468e-b59f-e871bdd04f0d)
+![image](https://github.com/user-attachments/assets/4e55bfe6-ab36-48da-930b-b102481f44a0)
+
 
 
 Result:
