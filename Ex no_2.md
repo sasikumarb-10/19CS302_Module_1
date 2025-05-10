@@ -1,4 +1,6 @@
 # EX 2 C program to check whether the attendance is PRESENT using simple if statement.
+## NAME:SASI KUMAR B
+## REG NO:212223060252
 ## DATE:
 ## AIM:
 To write a program to check whether the attendance is PRESENT using simple if statement.
